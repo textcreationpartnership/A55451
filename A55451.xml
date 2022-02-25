@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popes ware-house, laid open to the world: or, A true account how many trades the Pope is on viz. He is a gold-smith, a jeweller, a linnen-draper, a silk-man, a turner, a brazier, an iron-monger, a stone-cutter, a tinker, a vintner, a corn-chandler, a drover, a coach maker, a body-seller, and a soul seller. To which is added Sir William Wallers new discovery of the Popes sham-plot. Entred according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55451</idno>
+            <idno type="STC">Wing P2941</idno>
+            <idno type="STC">ESTC R219520</idno>
+            <idno type="EEBO-CITATION">99830987</idno>
+            <idno type="PROQUEST">99830987</idno>
+            <idno type="VID">35449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35449)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2037:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popes ware-house, laid open to the world: or, A true account how many trades the Pope is on viz. He is a gold-smith, a jeweller, a linnen-draper, a silk-man, a turner, a brazier, an iron-monger, a stone-cutter, a tinker, a vintner, a corn-chandler, a drover, a coach maker, a body-seller, and a soul seller. To which is added Sir William Wallers new discovery of the Popes sham-plot. Entred according to order.</title>
+                  <author>Waller, William, Sir, d. 1699. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Mills and are to be sold by a running book-seller,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35449:1"/>
+            <p>THE Popes Ware-Houſe, Laid Open to the World: Or, A True Account how many TRADES The Pope is on, <hi>VIZ.</hi>
+               <lb/> He is a <hi>Gold-ſmith,</hi> a <hi>Jeweller,</hi> a <hi>Linnen-Draper,</hi> a <hi>Silk-Man,</hi> a <hi>Turner,</hi> a <hi>Brazier,</hi> an <hi>Iron-monger,</hi> a <hi>Stone-Cutter,</hi> a <hi>Tinker,</hi> a <hi>Vintner,</hi>a <hi>Corn-Chandler,</hi> a <hi>Drover,</hi> a <hi>Coach maker,</hi> a <hi>Body-Seller,</hi> and a <hi>Soul Seller.</hi>
+            </p>
+            <p>To which is added Sir <hi>William Wallers</hi> new Diſ<g ref="char:EOLhyphen"/>covery of the <hi>Popes Sham-Plot.</hi>
+            </p>
+            <p>Entred According to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Mills</hi> and are to be Sold by a Running Book-Seller, 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:35449:2"/>
+            <head>The <hi>Popes</hi> Ware-Houſe laid open to the World, or a true Account how many Trades the <hi>Pope</hi> is on.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>YOU may read in <hi>Rev.</hi> 18. 12, 13. What a ſtately Shop of Ware the Antichriſt has, where you may have for ready Money, the Merchandize of Goods and Silver, precious Stones and Pearls, fine Linnen and Purple, all Silk and Scarlet, all Thyme or Sweet-wood, all manner of Ivory, all manner of Veſſels of precious Wood, of Braſs, of Iron, and of Marble, yet more, yea, Cinnamon, Odours, and Oyntments, yea, Frankinſence, Wine and Oyl, yea, fine Flower and Wheat, yet more, there be Beaſts, and Sheep, and Horſes, I wonder Aſſes are left out, and Chariots, and Slaves no doubt on't, but the greateſt Ware is behind, the Souls of Men.</p>
+            <p>But I wonder he expoſeth his Scarlet to Sale having ſo much uſe for it to array the Scarlet Whore, as alſo that the Beaſt ſhould be a Seller of Beaſts, and above all, I wonder what a price he ſets upon the Souls of Men, ſeeing our Lord Chriſt (who beſt knew the worth of Souls, becauſe he only went to the Price of Souls) valued one Soul worth the whole World, <hi>Matth.</hi> 16. 26. Surely he muſt be the Antichriſt who ſel<g ref="char:EOLhyphen"/>leth Souls for Trifles. In a word, ſurely this <hi>Pope</hi> is Jack of all Trades, here he's a Goldſmith, with his Gold and Silver, and it may be a Bancker, I wiſh him to become a Banckrupt; here he is a Jeweller with his Pearls and precious Stones; here he is a Linnen-Draper with his fine Linnen and Purple; I doubt he wants the <hi>Scotch-Cloth;</hi> here you have him a Silkman with his Silks of all ſorts, and fears not but he has Satten (or
+<pb n="3" facs="tcp:35449:2"/> Satan) enough, here he is a Turner, that ſells all ſorts of Veſ<g ref="char:EOLhyphen"/>ſels, wherewith he turns the World up-ſide down, this he effects by Veſſels of wrath, but he ſells for Slaves the Veſ<g ref="char:EOLhyphen"/>ſels of Mercy, here you may have him one while a Brazier, with his Braſs, another while an Ironmonger with his Iron, yea, ſometimes a Stone-Cutter, with his Marble, and why not a Tinker too, being a kin to him, that inſtead of mend<g ref="char:EOLhyphen"/>ing ſome holes, made a many more, yet was well paid for his pains; here he is a Druggiſt with his Cinnamon, Odours and Oyntment; here he is a Vintner, with his Bottles of Wine to comfort the Heart, and his Cruiſes of Oyl to chear and clear the Countenance, 'tis well if there be not a Tincture of the Wine of <hi>Sodom</hi> among hands, yea, rather then fail he becomes a Corn-Chandler, affording you Wheat, either brok<g ref="char:EOLhyphen"/>en into Flower, (with Bran enough in it,) or in the whole Grain, but a little muſty by laying in a bad <hi>Granary</hi> or <hi>Garner,</hi> the Apoſtolical Chamber, nay rather than ſit Idle, he will come as a Ruſtick Drover to ſell Beaſts, and Sheep, and Horſes, (well mouth'd and man'd all, and made as Tame as Aſ<g ref="char:EOLhyphen"/>ſes) then a Coach-maker, who has his Chariots to Sell, but have a care they carry you not to <hi>Purgatory</hi> inſtead of <hi>Abrahams</hi> Boſom, and laſtly he becomes a Body-ſeller, and a Soul-ſeller alſo, but let us turn a ſide to ſee this great wonder, but hold, 'tis dangerous venturing into his Antick Chamber, leaſt this Grand Cheat pick your Pocket, <hi>viz.</hi> Here are ſome of the <hi>Popes</hi> Wares, that are expoſed to Sale by Inch of Can<g ref="char:EOLhyphen"/>dle, take as followeth.</p>
+            <p>
+               <hi>Imprimus,</hi> a Pardon for the third part of your Sins, for 7<hi>l.</hi> 10<hi>s.</hi> and if you would buy the other two parts, 'twill coſt you 22<hi>l.</hi> 10<hi>s.</hi> and a very rich penny-worth.</p>
+            <p>
+               <hi>Imprimus,</hi> a Pardon for 48 years ſin, as you can agree with his unholineſs, he is as good as the Devil can make him, you
+<pb n="4" facs="tcp:35449:3"/> may po<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſibly wheadle him to your own terms with Nuts and Apples.</p>
+            <p>
+               <hi>Imprimus,</hi> a Pardon for 2800 years, may be had Dogg cheap, only for ſaying a few prayers, they will keep you out of <hi>Pur<g ref="char:EOLhyphen"/>gatory</hi> for a long time upon eaſie Terms.</p>
+            <p>
+               <hi>Imprimus,</hi> a Pardon for 33000 years, at a very low Rate, only for once going up a pair of Stairs.</p>
+            <p>
+               <hi>Imprimus,</hi> for Perjury 9<hi>s.</hi> for Murder 2<hi>d.</hi> you may Kill your Father, Mother, Wife and Siſter, and ſhall pay but 10<hi>s.</hi> 6<hi>d.</hi> for Adultery 7<hi>s.</hi> 6<hi>d.</hi> for Burning a Neighbours houſe Dogg cheap at 12<hi>s.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> if you be a Prieſt, you may keep a Whore, paying 12<hi>s.</hi> and 6<hi>d.</hi> and if a Layman it will coſt you no more, that the one may not deride the other, <hi>viz.</hi> A Licenſe to be Lazy at 4<hi>d.</hi>
+            </p>
+            <p>A Licenſe to Eat Fleſh in Lent, will coſt you 12<hi>s.</hi> here you may have Holy Water, to drive away the Devil, at 8<hi>l.</hi> a quart very dear, but very real, it is able to Conjure away the ſtrongeſt Devil in Hell, you may have Holy Oyl at 2<hi>d.</hi> farthing a quart, here is Holy Salt at one penny a peck.</p>
+            <p>
+               <hi>Item,</hi> here is expoſed to ſale the Holy Milk of the <hi>Virgin-Mary,</hi> which ſome of the <hi>Popes</hi> curſed Doctors affirm, is as Soveraign and Salvifical as the Blood of Her Son our Savi<g ref="char:EOLhyphen"/>our, however 'tis commended moſt highly for never-Failing to cure Conſumptions, far exceeding the Milk of an Aſſe, or that of the Red-Cow; what a Fool is the Conſumptive <hi>Pope</hi> or Antichriſt himſelf, who doth not by this truſty trick diſap<g ref="char:EOLhyphen"/>point the Divine doom paſſed upon him, what need he fear <hi>(that the Lord ſhall Conſume him with the Spirit of his mouth,)</hi> 2 Theſſ. 2. 8. Seeing an hearty draught of this Holy Milk will care the Conſumptions, this <hi>Pope</hi> then ſaid, I will have my will in deſpight of God, <hi>viz.</hi> Who durſt put ſuch an
+<pb n="5" facs="tcp:35449:3"/> affronting cheat upon ſo Holy a Father as <hi>Barnard</hi> the Prieſt did, which for brevity ſake I omit, <hi>viz.</hi> 'Tis true 500 years ago ſince they cried in <hi>Rome,</hi> will ye buy any Holy Milk, whereby they did put the greateſt diſhonour upon the Holy. Mother of our Lord, (whom they pretended to adore) in making her ſuch a Milk Beaſt, as Ten of the beſt Cows in <hi>Holland</hi> cannot give the like quantity in Ten years.</p>
+            <p>Yea, here is Holy Bread to be had, (the <hi>Pope</hi> good man) takes good care for your Table, and to furniſh it ſo far as Holy Water, Holy Oyl, Holy Salt, Holy Milk, and Holy Bread will go, but ſurely all theſe do but look like a Lent dinner, I hope his unholineſs keeps a better Table for him<g ref="char:EOLhyphen"/>ſelf; if you be a Water drinker, here's the beſt of the kind, Holy Water for you, of the <hi>Popes</hi> own making, I ſhould have ſaid Conſecrating, if you be a Milk-ſop, here's the beſt of the kind, Holy Milk, the ſelf ſame your Saviour ſucked out of the ſelf ſame Breaſts, when he was a Child, and who will not be content with the ſame fare that bred the Bleſſed Babe of <hi>Bethlehem,</hi> the Holy Child Jeſus, and becauſe the Maſter of this Lent Feaſt will not under-value you as a ſort of Suck<g ref="char:EOLhyphen"/>lings, he is ſo kind hearted as to allow you Bread to your Milk, that you may ſup it and not ſuck it, is not biting and ſupping good fair, eſpecially of Holy Bread and Holy Milk, you muſt not expect a glaſs of Wine in the <hi>Popes</hi> Ware-Shop, but you muſt ſuck Wine out of the Bread if you will have it, and can catch it, neither muſt you grudge that you have on<g ref="char:EOLhyphen"/>ly Bread, (though it be but courſe Barley Bread, ſuch as you were never brought up with,) 'tis however Holy Bread, and the holier, and ſo more ſatisfactory, becauſe (as this Maſter tells you) 'tis a Fragment of thoſe five Loaves wherewith (Chriſt) ſed the Multitude, and picked out of the twelve Bas<g ref="char:EOLhyphen"/>kets (that were taken away) by ſome of the <hi>Popes</hi> nimble
+<pb n="6" facs="tcp:35449:4"/> Snips, but I wonder how they have kept it from Moulding ever ſince, the Mouldy Bread wherewith the <hi>Gibeonites</hi> cheat<g ref="char:EOLhyphen"/>ed <hi>Joſhua,</hi> was not ſo many hours Old, as this Holy Bread is years, at this day, if it be ſound Bread that is ſhown you, take heed you be not cheated with it, as <hi>Joſhua</hi> was with the Mouldy, but you will ſay, why is Holy Salt prepared for the Table, when the forementioned fair needs it not, anſwer, you muſt know 'tis not ſet there for faſhion-ſake only.</p>
+            <p>Here you may have Holy Fiſh too, and of the ſelf ſame two Fiſhes wherewith Chriſt fed the Multitude alſo, the Bread and the Fiſh were taken out of the ſame Baskets, and if you ſuppoſe it freſh Fiſh, then there is uſe for your Salt, but to prevent your ſecond objection about the uſe of your Oyl, you muſt rather ſuppoſe it Holy Fiſh ſalted with that Holy Salt, (it could never otherwiſe been kept ſo long ſweet for theſe ſixteen Centuaries) and then your Holy Oyl will make your Holy Fiſh, (ſo called) ſlip down the better, and be Modiſh enough, and what would you have more, is not here enough for a four penny Ordinary.</p>
+            <p>
+               <hi>Item,</hi> beſides this Belly-Timber, here you are treated with a numberleſs number of Rarities, as firſt, the Aſſes tail upon which Chriſt Rod on, but not a word of his Ears, ſecond<g ref="char:EOLhyphen"/>ly, <hi>Joſephs</hi> Breeches both Thread-bare and out of Faſhion, they will do you neither Credit nor Service. Thirdly, a Fea<g ref="char:EOLhyphen"/>ther from the Cock that Crew, and awaken'd <hi>Peters</hi> Conſci<g ref="char:EOLhyphen"/>ence, yet this ſtartles not <hi>Peters</hi> ſucceſſor for his Apoſtacy; as alſo a Feather from <hi>Gabriels</hi> wing, taken up at ſuch a time when as Angels caſt their Feathers. Fourthly, choice Hair-Cloath, the ſame that <hi>Elijah</hi> and <hi>John-Baptiſt</hi> wore, good e<g ref="char:EOLhyphen"/>nough for the <hi>Pope</hi> to do Pennance in, for forcing the wit<g ref="char:EOLhyphen"/>neſſes into Sack-Cloath. Fifthly, whole Cart-Loads of Apo<g ref="char:EOLhyphen"/>ſtles Bones, ſometimes thoſe of a Thief (as once) drops in among them, good for I know not what.</p>
+            <pb n="7" facs="tcp:35449:4"/>
+            <p> Item, <hi>Sold at a very Reaſonable Rate,</hi>
+            </p>
+            <p>Firſt, an Holy Rag Clip'd off from Chriſts Seamleſs Coat, 'tis a wonder how the <hi>Pope</hi> got it from the Souldiers, to whom it fell by caſting Lots, and 'tis a wonder they have not Clipped it all away by this time.</p>
+            <p>Secondly, the very Slippers Chriſt wore, when he being weary with walking about doing good, put off his Shoos for the eaſe of his Feet, ſurely they were made of well Tand-Lea<g ref="char:EOLhyphen"/>ther that laſteth ſtill, and are not Rotted to dirt e're this day; and I wonder the <hi>Pope</hi> doth expoſe them and not keep them him<g ref="char:EOLhyphen"/>ſelf, for they cannot want vertue to Cure his Gouty Golls, 'tis ſtrange we here nothing of his Shoos, (in the <hi>Popes</hi> Ware-Houſe) the Latchets were off, <hi>John Baptiſt</hi> (though the great<g ref="char:EOLhyphen"/>eſt Born of Woman) thought himſelf unworthy to unlooſe, <hi>Matth.</hi> 11. 11. <hi>Luke</hi> 5. 16.</p>
+            <p>Thirdly, the very Linnen Cloath with which Chriſt was Wrap'd in the <hi>Sepulchre,</hi> as likewiſe that wherewith Chriſt wiped his Diſciples feet, I am thinking the Man that Cries in our Streets, (here is your ſtrong laſting Linnen Cloath,) might do good ſervice in this <hi>Romiſh</hi> Market.</p>
+            <p>Fourthly, the very Needles, Thread, Work-Baskets and Sizzers of the <hi>Virgin Mary,</hi> are to be Sold.</p>
+            <p>Fifthly and Laſtly, here you may have whatever your heart wiſhes, or need doth require, is it any of thoſe many things mentioned in <hi>Rev.</hi> 18. 12. 13. Rich all, here they are to be had, want your Holy Bells, (Baptized with Godfathers and Godmothers,) God Bleſs our empty new erected Stee<g ref="char:EOLhyphen"/>ples, or want your Holy Beads made of Glaſs, Wood, Stone, Coral or Amber, Holy Wax for your Candles, Holy Knives for Cutting <hi>Hereticks</hi> Throats, of Holy Roſes, an <hi>Chriſtmas</hi> time, a rare Preſent for Princes, or what elſe ſoe<g ref="char:EOLhyphen"/>ver, all is Holy that comes from his unholineſs, and all have a
+<pb n="8" facs="tcp:35449:5"/> Power to drive away the Devil, yet the Devil takes moſt of thoſe that are taken with theſe, (Pejafrauds) Holy Cheats, none of their Names are in the Lambs Book, <hi>Rev.</hi> 13. 8. God Bleſs every good <hi>Engliſhman</hi> from the Beaſt and his Cheat<g ref="char:EOLhyphen"/>ing Tricks.</p>
+            <p>Here follows the <hi>Sham-Plot</hi> Diſcovered by Sir <hi>William Waller;</hi> the late Earle of <hi>Shaftſbury,</hi> was the Papiſts great Stumbling-Block, becauſe his Sagality had ſo oft countermi<g ref="char:EOLhyphen"/>ned their Deviliſh deſigns, hereupon <hi>Plots</hi> were laid againſt his Life, both by Men and Women, in City and Country.</p>
+            <p>The Duke of <hi>Buckingham</hi> was an Eye-ſore to them for ſay<g ref="char:EOLhyphen"/>ing (I ſuppoſe) he would never turn Papiſt, till they can eat up the Devil, as they ſay, they do God in their Hoſt.</p>
+            <p>There was a Helliſh <hi>Sham-Plot</hi> at Laſt contrived by the Bloody <hi>Papiſts,</hi> to Blow up all the <hi>Proteſtant</hi> Lords, (the Duke of <hi>Monmouth)</hi> and all the <hi>Proteſtant</hi> Gentry in City and Coun<g ref="char:EOLhyphen"/>try at one Blaſt, by fixing high Treaſon upon them all Uni<g ref="char:EOLhyphen"/>verſally, and when the Knife was at our Throats, God ſent Sir <hi>William Waller</hi> to turn up the bottom of Maddam <hi>Celliers</hi> Meal-Tub, where all the Bran of this Brutiſh Intreague was Diſcovered.</p>
+            <closer>Cum Multis aliis quae nunc perſcribere longum eſt.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35449:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
